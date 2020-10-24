@@ -1,0 +1,43 @@
+.SignInInputs{
+  max-width: 60%;
+  display: block;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  .SignInform{
+    width: 100%;
+    .submitbox{
+      margin-top: 50px;
+      display: flex;
+      width: 100%;
+      justify-content: space-between;
+      align-items: center;
+      .submitboxbtn{
+        background-color: #ed953b;
+        border: none;
+        height: 50px;
+        width: 110px;
+        text-align: center;
+        color: white;
+        cursor: pointer;
+        border-radius: 4px;
+        outline: none;
+        &:disabled{
+          background-color: #d78736;
+          cursor: not-allowed;
+        }
+      }
+      .forgetpass{
+        color: rgba(196, 121, 43, 0.76);
+      }
+    }
+    .field{
+      height: 65px;
+      .error{
+        font-size: 11px;
+        color: rgba(138,0,16,0.69);
+        float: left;
+      }
+    }
+  }
+}

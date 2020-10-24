@@ -1,0 +1,302 @@
+.homepage{
+  header{
+    background-image:url("../Img/Homepage/header5.png");
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 90vh;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: flex-start;
+    .headertxts{
+      width: 100%;
+      font-family: 'CarotDisplay-Regular';
+      span{
+        font-size: 13px;
+        color: rgba(21,57,33,0.73);
+      }
+      h1{
+        color: #153921;
+        font-size: 50px;
+        margin: 30px 0 50px 0;
+        line-height: 60px;
+      }
+      p{
+        color: rgba(21,57,33,0.83);
+        font-size: 15px;
+        margin-bottom: 40px;
+      }
+      .headerlink{
+        display: flex;
+        width: 100%;
+        align-items: center;
+        a:nth-child(1){
+          color: #ffffff;
+          border: 2px solid #153921;
+          padding: 10px 25px;
+          margin-right:14px;
+          background-color: #153921;
+        }
+        a:nth-child(2){
+          color: #153921;
+          border: 2px solid #153921;
+          padding: 10px 25px;
+          margin-right:14px;
+        }
+      }
+    }
+  }
+
+  section{
+    background-color: rgba(21,57,33,0.19);
+    padding: 100px 100px 600px 100px;
+    .sectionHeader{
+      text-align: center;
+      font-family: 'CarotDisplay-Regular';
+      margin: 0 0 50px 0;
+      span{
+        color: rgba(21,57,33,0.73);
+        font-size: 17px;
+      }
+      h1{
+        color: #153921;
+        font-size: 22px;
+      }
+    }
+    .sectionbox{
+      display: grid;
+      padding: 50px;
+      background-color: white;
+      img{
+        object-fit: cover;
+        height: 60px;
+        width: 60px;
+        opacity: 60%;
+        margin-bottom: 30px;
+      }
+      span{
+        font-size: 20px;
+        color: #7a869b;
+        font-family: "Bebas Neue";
+      }
+      h1{
+        font-size: 45px;
+        margin-bottom: 2px;
+        font-family: "Bebas Neue";
+        color: #b6c0d0;
+      }
+      p{
+        font-size: 13px;
+        color: #4e5869;
+        font-family: "Sebino Regular";
+      }
+    }
+    .sectionLearnMore{
+      text-align: center;
+      p{
+        font-family: "Sebino Regular";
+        font-size: 15px;
+        color: #13301d;
+      }
+      button{
+        font-family: "Dharma Gothic E";
+        font-size: 23px;
+        padding: 6px 25px;
+        color: #ffffff;
+        border: none;
+        background-color: rgba(21,57,33,0.71);
+        font-weight: lighter;
+        word-spacing: 5px;
+        vertical-align: middle;
+      }
+    }
+  }
+  article{
+    padding: 0 100px;
+    margin-top: -480px;
+    .ourServicesheader{
+      font-family: 'CarotDisplay-Regular';
+      margin: 70px 0;
+      span{
+        color: rgba(21,57,33,0.73);
+        font-size: 13px;
+      }
+      h1{
+        color: #153921;
+        font-size: 22px;
+      }
+      p{
+        color: rgba(21,57,33,0.57);
+        font-size: 17px;
+      }
+    }
+    .servicesBox{
+      box-shadow: 0px 20px 10px -5px rgba(0,0,0,0.4);
+      display: grid;
+      padding: 50px;
+      background-color: white;
+      img{
+        height: 60px;
+        width: 60px;
+        object-fit: cover;
+        opacity: 70%;
+      }
+      h1{
+        font-size: 44px;
+        margin: 20px 0;
+        font-family: "Bebas Neue";
+        color: rgba(48,54,64,0.78);
+      }
+      ul{
+        padding: 0 0 0 10px;
+        li{
+          color: #4e5869;
+          font-size: 13px;
+        }
+      }
+      a{
+        color: #3381a9;
+        font-family: "Bebas Neue";
+        font-size: 21px;
+      }
+    }
+  }
+  .viewourServicesbtn{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    button{
+      font-family:"Dharma Gothic E";
+      font-size: 23px;
+      padding: 6px 25px;
+      color: #ffffff;
+      border: none;
+      background-color: rgba(21,57,33,0.71);
+      font-weight: lighter;
+      word-spacing: 5px;
+      vertical-align: middle;
+    }
+  }
+  .Ournewsletter{
+    background-image: url("../Img/Homepage/header6.png");
+    background-size: cover;
+    background-position: top;
+    min-height: 60vh;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    .newsletter{
+      span{
+        font-family: CarotDisplay-Medium;
+        font-size: 14px;
+        color: rgba(21,57,33,0.67);
+      }
+      h1{
+        font-family: CarotDisplay-Medium;
+        font-size: 25px;
+        color: rgba(21,57,33,0.87);
+      }
+      p{
+        font-family: "Sebino Regular";
+        font-size: 16px;
+        color: rgba(21,57,33,0.87);
+      }
+      .newsletterinputbox{
+        max-width: 400px ;
+        background-color: rgba(21,57,33,0.57);
+        padding: 20px;
+        input{
+          font-family: "Dharma Gothic E";
+          font-size: 16px;
+        }
+        span{
+          font-family: "Dharma Gothic E" !important;
+          color: white;
+          font-size: 18px !important;
+        }
+      }
+    }
+  }
+
+  footer{
+    padding:50px 80px;
+    background-color: rgba(21,57,33,0.76);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .footerboxsAdress{
+      color: white;
+      font-family: "Sebino Regular";
+      p{
+        margin-bottom: 33px;
+        font-size: 16px;
+        font-weight: lighter;
+      }
+      span{
+        font-size: 17px;
+        font-weight: bolder;
+      }
+    }
+    .footerboxsLinks{
+      display: grid;
+      justify-items: center;
+      ul{
+        width: 100%;
+        list-style: none;
+        display: flex;
+        justify-content: space-evenly;
+        color: white;
+        font-family: "Bebas Neue";
+        margin-bottom: 33px;
+
+        li{
+          font-size: 20px;
+        }
+      }
+      p{
+        font-size: 17px;
+        color: white;
+      }
+      span{
+        font-size: 15px;
+        color: rgba(255,255,255,0.7);
+        font-weight: lighter;
+      }
+    }
+    .footerboxsSocial{
+      display: grid;
+      justify-items: center;
+      span{
+        margin-bottom: 33px;
+        font-family: "Sebino Regular";
+        font-size: 17px;
+        color: white;
+      }
+      ul{
+        list-style: none;
+        width: 100%;
+        color: rgba(139,168,255,0.71);
+        display: flex;
+        justify-content: space-evenly;
+
+        li{
+          font-size: 25px;
+        }
+      }
+    }
+    .footerHeader{
+      display: flex;
+      justify-content: center;
+      width: 100%;
+      h1{
+        color: white;
+        font-family: CarotDisplay-Regular;
+        width: 100%;
+        text-align: center;
+      }
+    }
+  }
+
+}

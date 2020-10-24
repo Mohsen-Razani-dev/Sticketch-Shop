@@ -1,0 +1,257 @@
+{
+  "StickersShop": [
+    {
+      "id": 1,
+      "name": "Headphone",
+      "cost": 8,
+      "img": "https://i.ibb.co/Nxqbf2Q/cool-cream.png",
+      "number": 1
+    },
+    {
+      "id": 2,
+      "name": "Confidential",
+      "cost": 4.99,
+      "img": "https://i.ibb.co/4PtDc2z/monday-horror-1.png",
+      "number": 1
+    },
+    {
+      "id": 3,
+      "name": "cream",
+      "cost": 5.99,
+      "img": "https://i.ibb.co/fDS3JGn/cool-pineapple.png",
+      "number": 1
+    },
+    {
+      "id": 4,
+      "name": "idea",
+      "cost": 3.99,
+      "img": "https://i.ibb.co/cXNRvQh/explore-astronaut.png",
+      "number": 1
+    },
+    {
+      "id": 5,
+      "name": "astronaut",
+      "cost": 7.99,
+      "img": "https://i.ibb.co/T4RM8qJ/ghost-hoo.png",
+      "number": 1
+    },
+    {
+      "id": 6,
+      "name": "ghost",
+      "cost": 7.99,
+      "img": "https://i.ibb.co/Y7tJGGL/headphone.png",
+      "number": 1
+    },
+    {
+      "id": 7,
+      "name": "plants",
+      "cost": 9.99,
+      "img": "https://i.ibb.co/mX6y5gH/i-love-sleep-pillow-sticker.png",
+      "number": 1
+    },
+    {
+      "id": 8,
+      "name": "sushi",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/PCcRzWs/idea.png",
+      "number": 1
+    },
+    {
+      "id": 9,
+      "name": "pineapple",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/HgVD3xS/Confidential.png",
+      "number": 1
+    },
+    {
+      "id": 10,
+      "name": "pillow",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/yX4NBFL/now-or-never.png",
+      "number": 1
+    },
+    {
+      "id": 11,
+      "name": "vans",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/377yxtk/plants.png",
+      "number": 1
+    },
+    {
+      "id": 12,
+      "name": "retro",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/6wRqGFk/playstation-5.png",
+      "number": 1
+    },
+    {
+      "id": 13,
+      "name": "retro",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/Z1ZKTr1/retro-pc.png",
+      "number": 1
+    },
+    {
+      "id": 14,
+      "name": "retro",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/5MdRT0J/sushi.png",
+      "number": 1
+    },
+    {
+      "id": 15,
+      "name": "retro",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/0sfjK7q/vande-mataram.png",
+      "number": 1
+    },
+    {
+      "id": 16,
+      "name": "retro",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/6N1f8VM/vans.png",
+      "number": 1
+    },
+    {
+      "id": 17,
+      "name": "retro",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/7nf43pv/will-code-for-pizza.png",
+      "number": 1
+    },
+    {
+      "id": 18,
+      "name": "retro",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/09dF1zr/wubba-lubba-dub-dub.png",
+      "number": 1
+    },
+    {
+      "id": 19,
+      "name": "retro",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/K680LMk/cactus.png",
+      "number": 1
+    },
+    {
+      "id": 20,
+      "name": "retro",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/Prb1vvf/aliens.png",
+      "number": 1
+    },
+    {
+      "id": 21,
+      "name": "retro",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/x7yRMtV/dracula-plant.png",
+      "number": 1
+    },
+    {
+      "id": 22,
+      "name": "retro",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/n6T5xDM/emily-blunt.png",
+      "number": 1
+    },
+    {
+      "id": 23,
+      "name": "retro",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/9gxVL1h/explore-space.png",
+      "number": 1
+    },
+    {
+      "id": 24,
+      "name": "retro",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/59nxvsx/i-need-space-pop-art.png",
+      "number": 1
+    },
+    {
+      "id": 25,
+      "name": "retro",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/HXp9pXs/kenny.png",
+      "number": 1
+    },
+    {
+      "id": 26,
+      "name": "retro",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/kXnN3Yd/leaf.png",
+      "number": 1
+    },
+    {
+      "id": 27,
+      "name": "retro",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/kD5rVrK/kristen-stewart.png",
+      "number": 1
+    },
+    {
+      "id": 28,
+      "name": "retro",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/d5tGsDT/morty-rick.png",
+      "number": 1
+    },
+    {
+      "id": 29,
+      "name": "retro",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/4tPs53n/rick-and-morty.png",
+      "number": 1
+    },
+    {
+      "id": 30,
+      "name": "retro",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/HNM9wQn/scarlett-johanson.png",
+      "number": 1
+    },
+    {
+      "id": 31,
+      "name": "retro",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/RBqCxgD/selena.png",
+      "number": 1
+    },
+    {
+      "id": 32,
+      "name": "retro",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/9YLLj90/space-monkey.png",
+      "number": 1
+    },
+    {
+      "id": 33,
+      "name": "retro",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/DfX4dx4/space-saturn.png",
+      "number": 1
+    },
+    {
+      "id": 34,
+      "name": "retro",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/5kZjwSq/standude.png",
+      "number": 1
+    },
+    {
+      "id": 35,
+      "name": "retro",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/yd7yKhC/to-the-moon-ribbon.png",
+      "number": 1
+    },
+    {
+      "id": 36,
+      "name": "retro",
+      "cost": 2.99,
+      "img": "https://i.ibb.co/c6q8WLh/to-the-moon.png",
+      "number": 1
+    }
+  ],
+  "Users": []
+}

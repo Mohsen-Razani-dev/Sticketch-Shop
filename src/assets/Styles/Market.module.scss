@@ -1,0 +1,176 @@
+.market {
+  background-color: rgba(255, 255, 255, 0.99);
+  padding: 25px 50px;
+  header {
+    padding: 20px 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    .radiobtn {
+      border: none !important;
+      background-color: white;
+      border-radius: 15px;
+      padding: 20px 20px;
+      display: flex;
+      align-items: center;
+    }
+    a {
+      background-color: white;
+      padding: 10px 25px;
+      border-radius: 12px;
+    }
+    .searchbox {
+      margin-left: 50px;
+      div {
+        display: flex;
+        align-items: center;
+        padding: 20px 0 !important;
+        border: none !important;
+        outline: none !important;
+        border-radius: 15px !important;
+        box-shadow: 0 0 10px 0 rgba(0,0,0,0.3);
+        span {
+          display: flex !important;
+          align-items: center !important;
+          padding-left: 10px !important;
+        }
+      }
+    }
+  }
+  .marketHeaderGifts {
+    background-image: url("../../assets/Img/Market/marketheader.png");
+    background-size: cover;
+    min-height: 40vh;
+    height: 100%;
+    background-position: center;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.3);
+    span{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 20px;
+      backdrop-filter: blur(1.7px);
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0,0,0,0.2);
+      a{
+        font-family: "Sebino Regular";
+        font-size: 23px;
+        background-color: white;
+        padding: 10px 20px;
+        color: #282f49;
+        outline: none;
+        border-radius: 7px;
+      }
+    }
+  }
+  .tutorialStickers{
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.3);
+    background-color: white;
+    border-radius: 35px;
+    text-align: center;
+    min-height: 40vh;
+    display: grid;
+    align-content: center;
+    justify-items: center;
+    padding: 20px;
+    span{
+      font-size: 15px;
+      color: #2a2f47;
+      margin: 10px 0;
+    }
+    .tutorialStickersVid{
+      padding: 15px;
+      border-radius: 35px;
+      height: 200px;
+      width: 100%;
+      object-fit: cover;
+      opacity: 70%;
+    }
+    button{
+      padding: 10px 20px;
+      border: none;
+      background-color: rgba(225, 255, 233, 0.99);
+      color: #282f49;
+    }
+  }
+  .shopItemsContainer {
+    .stickerItemBox {
+      //padding: 14px 30px;
+      .stickerItem {
+        box-shadow: -10px -10px 16px -4px rgba(0,0,0,0.2);
+        border-radius: 20px;
+        padding: 20px;
+        //background-color: #fadcce;
+        background: radial-gradient(
+          circle at bottom right,
+          transparent 50px,
+          #ffffff 50px
+        );
+        &:hover{
+          button{
+            box-shadow: 0px 0px 15px 2px rgba(0,0,0,0.3);
+          }
+        }
+        button {
+          box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.2);
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          width: 48px;
+          height: 48px;
+          background: #ffffff;
+          position: absolute;
+          bottom: 10px;
+          right: 10px;
+          border-radius: 100%;
+          border: none;
+          outline: none;
+          cursor: pointer;
+        }
+        img {
+          opacity: 88%;
+          padding: 10px;
+          object-fit: contain;
+          width: 100%;
+          height: 150px;
+          max-height: 150px;
+        }
+        #descrtItem {
+          display: grid;
+          align-content: center;
+          height: 80px;
+          max-height: 80px;
+          h2 {
+            font-size: 14px;
+          }
+          span {
+            font-size: 13px;
+          }
+        }
+      }
+    }
+  }
+}
+
+
+//Sidebar
+.sidbar{
+  display: grid;
+  h1{
+    font-size: 24px;
+    color: #282f49;
+    font-family: "Sebino Regular";
+    margin-top: 30px;
+  }
+  a{
+    color: #282f49;
+    font-size: 16px;
+    margin-top: 36px;
+  }
+}
