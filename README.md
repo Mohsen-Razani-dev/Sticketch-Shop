@@ -14,4 +14,4 @@ run "json-server in project directory
 run project
 
 #### `Project progress rate`
-`[####      ]
+`[####      ]`
