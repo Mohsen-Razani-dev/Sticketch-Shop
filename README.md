@@ -12,3 +12,6 @@ run "json-server in project directory
 
 #### `npm start`
 run project
+
+#### `Project progress rate`
+`[####      ]
