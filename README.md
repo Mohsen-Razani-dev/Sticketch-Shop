@@ -1,4 +1,4 @@
-# TODO List with Locally Json Server
+# Sticketch Shop with Locally Json Server
 
 #### Installation & Running locally
 
